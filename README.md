@@ -40,6 +40,6 @@ The calculator is split into multiple **independent modules**, each handling a s
 - 📦 **Package & Module Structure** for maintainability  
 
 ---
-OUTPUT:-
+OUTPUT IN CMD PROMPT(Windows)/ TERMINAL(MacOS)
 <img width="1131" height="844" alt="Screenshot 2025-08-15 130140" src="https://github.com/user-attachments/assets/748c70d3-96dc-4a51-bf41-29806d4f599f" />
 
