@@ -39,7 +39,25 @@ The calculator is split into multiple **independent modules**, each handling a s
 - 🖥 **Interactive CLI Menu**  
 - 📦 **Package & Module Structure** for maintainability  
 
----
+-----PROCEDURE-----
+Create a Folder and a File in .py format 
+Inside the Folder Create Another Folder containing
+Code, Display, Welcome, __init__
+Welcome:
+<img width="1919" height="949" alt="Screenshot 2025-08-15 125232" src="https://github.com/user-attachments/assets/554d37be-7090-4ee1-bc19-ce1a3f728dc1" />
+
+CODE:
+<img width="1919" height="963" alt="Screenshot 2025-08-15 125119" src="https://github.com/user-attachments/assets/3a93996f-dd08-469e-8648-d625cbaefce3" />
+
+Display: 
+<img width="1919" height="956" alt="Screenshot 2025-08-15 125151" src="https://github.com/user-attachments/assets/3c72496d-395e-49dd-9876-b276bb364268" />
+
+Package Initialization using __init__.py:
+<img width="1919" height="956" alt="Screenshot 2025-08-15 125151" src="https://github.com/user-attachments/assets/729dac22-d0c6-4161-8b96-1350ac25edf2" />
+
+Create a File in the Main Folder (I have Created as Calculator) This folder should be inside the Main Folder not in the Package Folder: 
+<img width="1919" height="960" alt="Screenshot 2025-08-15 125256" src="https://github.com/user-attachments/assets/5bb93ea7-5d91-43e2-8284-28094ba8f231" />
+
 OUTPUT IN CMD PROMPT(Windows)/ TERMINAL(MacOS)
 <img width="1131" height="844" alt="Screenshot 2025-08-15 130140" src="https://github.com/user-attachments/assets/748c70d3-96dc-4a51-bf41-29806d4f599f" />
 
