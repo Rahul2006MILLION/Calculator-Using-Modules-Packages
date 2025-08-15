@@ -53,7 +53,7 @@ Display:
 <img width="1919" height="956" alt="Screenshot 2025-08-15 125151" src="https://github.com/user-attachments/assets/3c72496d-395e-49dd-9876-b276bb364268" />
 
 Package Initialization using __init__.py:
-<img width="1919" height="956" alt="Screenshot 2025-08-15 125151" src="https://github.com/user-attachments/assets/729dac22-d0c6-4161-8b96-1350ac25edf2" />
+<img width="1919" height="946" alt="Screenshot 2025-08-15 125211" src="https://github.com/user-attachments/assets/6f10915e-e244-4485-a816-d4e490706e91" />
 
 Create a File in the Main Folder (I have Created as Calculator) This folder should be inside the Main Folder not in the Package Folder: 
 <img width="1919" height="960" alt="Screenshot 2025-08-15 125256" src="https://github.com/user-attachments/assets/5bb93ea7-5d91-43e2-8284-28094ba8f231" />
